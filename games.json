@@ -5597,13 +5597,12 @@
     "url": "{HTML_URL}/631.html",
     "author": " Segawa",
     "authorLink": "https://vgperson.com/games/endroll.htm"
-  }
-{
+  },
+  {
   "id": 644,
   "name": "Basketball Legends 2020",
   "cover": "https://raw.githubusercontent.com/NikeGtag/covers/main/644.png",
   "url": "{HTML_URL}/644.html",
-  "author": "MadPuffers"
+  "author": "MadPuffers",
   "authorLink": "http://madpuffers.com/"
- }
-]
+}
