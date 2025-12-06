@@ -1,9 +1,9 @@
 [
   {
     "id": -1,
-    "name": "[!] SUGGEST GAMES",
-    "cover": "{COVER_URL}/-1.png",
-    "url": "https://www.tiktok.com/@gnmath"
+  "name": "[!] SUGGEST GAMES • FOLLOW TIKTOK",
+  "cover": "https://cdn.jsdelivr.net/gh/NikeGtag/data@main/tiktok.png",
+  "url": "https://www.tiktok.com/@gnmath"
   },
   {
     "id": 0,
